@@ -1,0 +1,4 @@
+:root{
+ --primary:#006C35;
+ --secondary:#C8A24A;
+}
